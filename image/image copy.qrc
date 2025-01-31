@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>minus-button.png</file>
+    <file>image.qrc</file>
+    <file>wants.jpg</file>
+    <file>th.jpg</file>
+    <file>mui1.jpg</file>
+    <file>1326636.jpg</file>
+    <file>mui.jpg</file>
+    <file>cross-button.png</file>
+    <file>tich.jpg</file>
+    <file>background.jpg</file>
+    <file>banhrang.jpg</file>
+    <file>plus-button.png</file>
+    <file>lock-unlock.png</file>
+    <file>pencil.png</file>
+    <file>chart-up.png</file>
+    <file>chart-medium.png</file>
+    <file>home.png</file>
+  </qresource>
+</RCC>
