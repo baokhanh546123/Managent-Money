@@ -1,0 +1,31 @@
+{
+    "50": "50% of your income should go towards essential needs such as rent, mortgage, utilities, groceries, healthcare, and transportation.",
+    "30": "30% of your income can be used for discretionary spending, such as dining out, entertainment, hobbies, and vacations.",
+    "20": "20% of your income should be allocated to savings, investments, and debt repayment to ensure financial stability.",
+    
+    "rent": "A fixed monthly payment for housing, which is considered a necessary expense in the 50% category.",
+    "utilities": "Bills for electricity, water, gas, and internet, which are essential and fall under the needs category.",
+    "groceries": "Money spent on food and other essential household items, which should be part of the 50% allocation.",
+    "healthcare": "Costs for medical insurance, prescriptions, and emergency healthcare needs.",
+    "transportation": "Includes fuel, public transport, car payments, and maintenance costs necessary for commuting.",
+    "insurance": "Payments for health, car, and home insurance to protect financial stability.",
+    
+    "debt repayment": "A part of the 20% category that includes paying off credit card debt, loans, and mortgages beyond the minimum.",
+    "savings": "Includes emergency funds, retirement savings, and investments to ensure long-term financial security.",
+    
+    "entertainment": "Expenses for streaming services, concerts, movies, and video games, categorized as wants.",
+    "shopping": "Buying clothes, electronics, and other non-essential goods, which should be limited to 30% of the budget.",
+    "travels": "Expenses for vacations, hotels, and flights, which are part of discretionary spending.",
+    
+    "investments": "Putting money into stocks, bonds, and mutual funds to grow wealth over time.",
+    "emergency fund": "Savings set aside to cover unexpected expenses such as medical bills or car repairs.",
+    
+    "subscription services": "Monthly costs for platforms like Netflix, Spotify, or Amazon Prime, classified as wants.",
+    "financial goals": "Setting objectives such as buying a home, saving for retirement, or paying off debt.",
+    "budget tracking": "Monitoring income and expenses to ensure spending aligns with financial goals.",
+    
+    "who are you": "I'm smart and cute chatbot",
+    "name": "My name is Kiwy",
+    "how are you": "I fine thank you and you"
+  }
+  

@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>284</width>
+    <width>307</width>
     <height>191</height>
    </rect>
   </property>
@@ -26,6 +26,12 @@
     <font>
      <pointsize>10</pointsize>
     </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel{
+color : #FF420E;
+}
+</string>
    </property>
    <property name="text">
     <string>Search</string>
@@ -62,9 +68,15 @@
     <rect>
      <x>10</x>
      <y>50</y>
-     <width>261</width>
+     <width>291</width>
      <height>91</height>
     </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel{
+color : #FF420E;
+}
+</string>
    </property>
    <property name="text">
     <string/>
