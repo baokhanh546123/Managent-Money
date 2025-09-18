@@ -1,8 +1,9 @@
 I developed a finance management app using PyQt5 and MySQL that adheres to the 50/30/20 budgeting rule to help users prevent overspending.
 To set up the app:
 1. Run the SQL file in the "SQL" folder.
-2. Install the necessary libraries with "pip install -r requirements.txt".
-3. Start the app using "loginUI1.py" or the packaged "loginUI.exe".
+2. Install the necessary libraries with
+bash"pip install -r requirements.txt".
+5. Start the app using "loginUI1.py" or the packaged "loginUI.exe".
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tôi đã phát triển một ứng dụng quản lý dòng tiền bằng thư viện PyQt5 kết hợp MySQL , điều đặc biệt ứng dụng này lấy quy luật 50/30/20 làm cốt lõi giúp cải thiện việc quản lí chi tiêu và hoàn thành được cái mục tiết kiệm một cách dễ dàng hơn
