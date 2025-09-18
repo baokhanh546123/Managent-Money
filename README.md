@@ -2,7 +2,9 @@ I developed a finance management app using PyQt5 and MySQL that adheres to the 5
 To set up the app:
 1. Run the SQL file in the "SQL" folder.
 2. Install the necessary libraries with
-bash"pip install -r requirements.txt".
+bash'''
+pip install -r requirements.txt.
+'''
 5. Start the app using "loginUI1.py" or the packaged "loginUI.exe".
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
